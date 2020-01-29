@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StlCurves",
+            "request": "launch",
+            "mainClass": "StlCurves",
+            "projectName": "lab7_7545207f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateStlCurve",
+            "request": "launch",
+            "mainClass": "CreateStlCurve",
+            "projectName": "lab7_7545207f"
+        }
+    ]
+}
